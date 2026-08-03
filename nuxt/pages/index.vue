@@ -67,7 +67,13 @@ useHead({
   padding-top: 15px;
 }
 
-.button{
+.links .button {
+  display: block;
+  width: 100%;
+  height: 60px;
+  padding: 12px 24px;
   margin-top: 10px;
+  font-size: 24px;
+  line-height: 1.5;
 }
 </style>
