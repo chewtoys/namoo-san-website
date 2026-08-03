@@ -5,20 +5,25 @@
   "author": "nakashunsan",
   "private": true,
   "scripts": {
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "lintfix": "eslint --fix --ext .js,.vue --ignore-path .gitignore .",
+    "lint": "eslint .",
+    "lintfix": "eslint . --fix",
     "dev": "nuxt dev",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "bulma": "^0.9.4",
-    "nuxt": "^4.2.2",
-    "vue": "^3.4.0"
+    "bulma": "^1.0.4",
+    "nuxt": "^4.5.1",
+    "vue": "^3.5.40"
   },
   "devDependencies": {
-    "@nuxt/devtools": "latest",
-    "eslint": "^8.57.0"
+    "@eslint/js": "^10.0.1",
+    "@nuxt/devtools": "^3.4.0",
+    "eslint": "^10.8.0",
+    "eslint-plugin-vue": "^10.10.0",
+    "globals": "^17.9.0",
+    "vite": "^8.2.0",
+    "vue-eslint-parser": "^10.4.1"
   }
 }
