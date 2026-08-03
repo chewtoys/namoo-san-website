@@ -16,7 +16,7 @@
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link">Social & Services</a>
           <div class="navbar-dropdown is-boxed">
-            <a class="navbar-item" href="https://github.com/namoo-san">
+            <a class="navbar-item" href="https://github.com/nakashunsan">
               GitHub
             </a>
             <a class="navbar-item" href="https://www.facebook.com/ieto.sharu">

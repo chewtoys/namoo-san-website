@@ -26,7 +26,7 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <strong>nakashun</strong> <small>@namoo-san</small>
+                    <strong>nakashun</strong> <small>@nakashunsan</small>
                     <small>(28)</small>
                     <br />
                   </p>
