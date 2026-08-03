@@ -26,7 +26,7 @@
           <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link">Social & Services</a>
             <div class="navbar-dropdown is-boxed">
-              <a class="navbar-item" href="https://github.com/namoo-san">
+              <a class="navbar-item" href="https://github.com/nakashunsan">
                 🔧 GitHub
               </a>
               <a class="navbar-item" href="https://www.facebook.com/ieto.sharu">
@@ -59,7 +59,7 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          nakashun.com - @namoo-san
+          nakashun.com - @nakashunsan
         </p>
         <p>Deploy on <strong>Nuxt.js + Netlify⚡</strong></p>
       </div>

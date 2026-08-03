@@ -30,7 +30,7 @@
           <div class="navbar-dropdown is-boxed">
             <a
               class="navbar-item"
-              href="https://github.com/namoo-san"
+              href="https://github.com/nakashunsan"
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -26,8 +26,8 @@ $ docker-compose up
 
 ``` bash
 # install dependencies
-$ yarn install
-$ yarn dev
+$ npm ci
+$ npm run dev
 ```
 
 ### Environment

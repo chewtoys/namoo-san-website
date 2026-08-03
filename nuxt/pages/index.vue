@@ -14,7 +14,7 @@
           <!-- <NuxtLink to="/worklog" class = "button is-info is-large is-block">Worklog</NuxtLink> -->
           <!-- <NuxtLink to="/resume" class = "button is-success is-large is-block">Resume</NuxtLink> -->
           <NuxtLink to="/events" class="button is-warning is-large is-block">DJ Events</NuxtLink>
-          <a href="https://github.com/namoo-san" class="button is-dark is-large is-block">GitHub</a>
+          <a href="https://github.com/nakashunsan" class="button is-dark is-large is-block">GitHub</a>
           <a href="https://www.flickr.com/photos/namoo-san" class="button is-dark is-large is-block">Flickr</a>
         </div>
       </div>

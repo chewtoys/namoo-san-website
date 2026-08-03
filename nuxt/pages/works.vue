@@ -65,7 +65,7 @@
               </div>
               <div class="media-content">
                 <p class="title is-4">Development</p>
-                <p class="subtitle is-6">@namoo-san</p>
+                <p class="subtitle is-6">@nakashunsan</p>
               </div>
             </div>
             <div class="content">

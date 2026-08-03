@@ -1,4 +1,4 @@
-FROM node:16-alpine3.15
+FROM node:24.18.0-alpine
 
 ENV LANG C.UTF-8
 ENV TZ Asia/Tokyo
@@ -17,7 +17,7 @@ ADD nuxt /nuxt
 WORKDIR /nuxt
 
 
-RUN yarn install
+RUN npm ci
 
 EXPOSE 3000
-CMD ["yarn", "dev"]
+CMD ["npm", "run", "dev"]
