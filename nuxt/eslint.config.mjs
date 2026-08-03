@@ -18,6 +18,7 @@ export default [
         ...globals.node,
         computed: 'readonly',
         defineNuxtConfig: 'readonly',
+        ref: 'readonly',
         useFetch: 'readonly',
         useHead: 'readonly',
         useRoute: 'readonly'

@@ -6,7 +6,7 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by3">
-              <img class="imgfix" src="/ub.jpg" alt="DJ Image">
+              <img class="imgfix" src="/ub.jpg" alt="UNBOXX DJ Event" loading="lazy">
             </figure>
           </div>
           <div class="card-content">
@@ -43,7 +43,7 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by3">
-              <img class="imgfix" src="/ubl.jpg" alt="DJ Image">
+              <img class="imgfix" src="/ubl.jpg" alt="UNBOXX Live DJ Event" loading="lazy">
             </figure>
           </div>
           <div class="card-content">
@@ -81,7 +81,7 @@
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by3">
-              <img class="imgfix" src="/wl.jpg" alt="DJ Image">
+              <img class="imgfix" src="/wl.jpg" alt="UNBOXX Lounge DJ Event" loading="lazy">
             </figure>
           </div>
           <div class="card-content">
@@ -191,7 +191,14 @@
 
 <script setup>
 useHead({
-  title: '🎧 + 🔧'
+  title: 'DJ Events - nakashun.com',
+  meta: [
+    { name: 'description', content: 'DJイベントの出演履歴とパフォーマンス情報' },
+    { name: 'og:title', content: 'DJ Events - nakashun.com' },
+    { name: 'og:description', content: 'DJイベントの出演履歴とパフォーマンス情報' },
+    { name: 'og:type', content: 'website' },
+    { name: 'twitter:card', content: 'summary' },
+  ]
 })
 </script>
 

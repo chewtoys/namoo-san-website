@@ -104,7 +104,14 @@
 
 <script setup>
 useHead({
-  title: '🎧 + 🔧'
+  title: 'Works - nakashun.com',
+  meta: [
+    { name: 'description', content: '制作実績とプロジェクト履歴' },
+    { name: 'og:title', content: 'Works - nakashun.com' },
+    { name: 'og:description', content: '制作実績とプロジェクト履歴' },
+    { name: 'og:type', content: 'website' },
+    { name: 'twitter:card', content: 'summary' },
+  ]
 })
 </script>
 

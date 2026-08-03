@@ -24,7 +24,14 @@
 </template>
 <script setup>
 useHead({
-  title: '🎧 🔧 📷'
+  title: 'nakashun.com - DJ, Engineer & Photographer',
+  meta: [
+    { name: 'description', content: 'DJ、エンジニア、フォトグラファーとして活動するnakashunのポートフォリオサイト' },
+    { name: 'og:title', content: 'nakashun.com - DJ, Engineer & Photographer' },
+    { name: 'og:description', content: 'DJ、エンジニア、フォトグラファーとして活動するnakashunのポートフォリオサイト' },
+    { name: 'og:type', content: 'website' },
+    { name: 'twitter:card', content: 'summary' },
+  ]
 })
 </script>
 
