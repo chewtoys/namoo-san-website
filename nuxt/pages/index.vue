@@ -10,7 +10,7 @@
       </h2>
       <div class = "contents">
         <div class="links">
-          <NuxtLink to="/works" class="button is-link is-large is-block">Works</NuxtLink>
+          <a href="https://works.nakashun.com" class="button is-link is-large is-block">Works</a>
           <!-- <NuxtLink to="/worklog" class = "button is-info is-large is-block">Worklog</NuxtLink> -->
           <!-- <NuxtLink to="/resume" class = "button is-success is-large is-block">Resume</NuxtLink> -->
           <NuxtLink to="/events" class="button is-warning is-large is-block">DJ Events</NuxtLink>

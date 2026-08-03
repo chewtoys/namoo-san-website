@@ -72,5 +72,14 @@ export default defineNuxtConfig({
     'bulma/css/bulma.css'
   ],
 
+  routeRules: {
+    '/works': {
+      redirect: {
+        to: 'https://works.nakashun.com',
+        statusCode: 301
+      }
+    }
+  },
+
   modules: []
 })
