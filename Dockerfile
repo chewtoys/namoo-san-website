@@ -17,7 +17,7 @@ ADD nuxt /nuxt
 WORKDIR /nuxt
 
 
-RUN yarn install
+RUN npm ci
 
 EXPOSE 3000
-CMD ["yarn", "dev"]
+CMD ["npm", "run", "dev"]
